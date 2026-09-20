@@ -1,0 +1,42 @@
+
+# Privacy Policy for [Bochica]
+
+**Effective Date:** [09-20-2026]
+
+This Privacy Policy explains how [Bochica] ("the Bot") collects, uses, stores, and protects data gathered from users and Discord servers. By adding or using this Bot, you agree to the data practices described in this policy.
+
+### 1. Data We Collect
+We only collect data that is strictly necessary for the Bot to function. Depending on the features you use, this may include:
+* **Discord User IDs and Usernames:** To identify users, track settings, or manage permissions (e.g., levels, currency, moderation logs).
+* **Discord Server (Guild) IDs and Channel IDs:** To store server-specific configurations and know where to send messages.
+* **Message Content:** Processed temporarily in real-time to respond to commands. We do not store your chat logs permanently.
+* **User-Generated Content:** Any input data explicitly provided by you through bot commands (e.g., custom profiles, reminders).
+
+### 2. How We Use Your Data
+We use the collected information solely to:
+* Operate, maintain, and provide the core features of the Bot.
+* Save your server preferences and configurations.
+* Prevent abuse, spam, or malicious attacks against the Bot's infrastructure.
+
+### 3. Data Retention and Storage
+* We only keep your data for as long as it is needed to provide the Bot's services. 
+* If the Bot is removed (kicked/banned) from a server, the server's configuration data is typically deleted within [e.g., 30 days / automatically].
+* All data is stored securely using [e.g., standard encrypted databases / password-protected servers].
+
+### 4. Data Sharing and Third Parties
+We value your privacy. **We do not sell, trade, or rent your personal data to third parties.** We do not share data with advertising networks, data brokers, or tracking companies. 
+
+We may only disclose data if required to do so by law or to comply with Discord's official Terms of Service.
+
+### 5. Your Rights and Data Deletion
+You have total control over your data. You can request the complete removal of your data at any time. To request data deletion, you can:
+* Use the built-in bot command: `[e.g., /delete-my-data - remove if you don't have this]`.
+* Leave our support server and contact a developer directly.
+* Email us at the address provided below.
+
+### 6. Changes to This Privacy Policy
+We may update this policy periodically to reflect changes in our bot's features or legal requirements. Continued use of the Bot after updates are posted indicates your acceptance of the revised policy.
+
+### 7. Contact Us
+If you have any questions about this Privacy Policy or want to request data deletion, please contact us at:
+* **Discord Support Server:**  (https://discord.gg/D2AsXPb7T))
